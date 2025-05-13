@@ -1,21 +1,27 @@
-  Öğrenci bilgi sistemi sayfalarıdır.
--Bu projelerin, onların notlarını, davranışlarını, derslerini kolay bir şekilde gözükmesi için özellikleri.
+📌 Proje Başlığı
 
+   -Öğrenci bilgi sistemi
+..................................................
+  🧾 Proje Tanıtımı
+  
+ -Bu projelerin, onların notlarını, davranışlarını, derslerini kolay bir şekilde gözükmesi için yapılmıştır.
+...................................................
+🚀 Proje Özellikleri
+
+ -🔐 Kullanıcı kayıt ve giriş işlemleri
+...................................................
    Tasarım
 -Çağdaş Tasarım
 -Kullanıcı dostu arayüz
-
-  Sayfalar
-
+...................................................
   Gösterge Paneli
 -Kullanıcı karşılama alanı
--Öğrenci Bilgi Sistemi (Dersler, bilgilendirme,notlar,öğretmenler)
--öğrenci/öğretmen için düzenleme,silme,ekleme butonları
-
+-Öğrenci Bilgi Sistemi (Dersler, bilgilendirme,notlar,öğretmenler) 
+.....................................................
   En Çok Kullanılan Teknolojiler
 -HTML
 -CSS
-
+......................................................
    Proje Yapısı
 
 ÖGRENCİ BİLGİ SİSTEMİ(ANA DOSYA)/
@@ -49,7 +55,7 @@
 │   ├── raporlar.css
 
 │   └── js/
-
+................................................................
 ## Tasarım Özellikleri
     -anasayfa.css
 :root {
