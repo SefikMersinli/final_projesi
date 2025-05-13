@@ -1,28 +1,28 @@
-📌 Proje Başlığı
+## 📌 Proje Başlığı
 
    -Öğrenci bilgi sistemi
-..................................................
-  🧾 Proje Tanıtımı
+   
+  ## 🧾 Proje Tanıtımı
   
  -Bu projelerin, onların notlarını, davranışlarını, derslerini kolay bir şekilde gözükmesi için yapılmıştır.
-...................................................
-🚀 Proje Özellikleri
+ 
+## 🚀 Proje Özellikleri
 
  -🔐 Kullanıcı kayıt ve giriş işlemleri
-...................................................
-   Tasarım
+ 
+   ## Tasarım
 -Çağdaş Tasarım
 -Kullanıcı dostu arayüz
-...................................................
-  Gösterge Paneli
+
+  ## Gösterge Paneli
 -Kullanıcı karşılama alanı
 -Öğrenci Bilgi Sistemi (Dersler, bilgilendirme,notlar,öğretmenler) 
-.....................................................
-  En Çok Kullanılan Teknolojiler
+
+ ## En Çok Kullanılan Teknolojiler
 -HTML
 -CSS
-......................................................
-   Proje Yapısı
+
+  ## Proje Yapısı
 
 ÖGRENCİ BİLGİ SİSTEMİ(ANA DOSYA)/
 ├── Resimler/
@@ -55,7 +55,7 @@
 │   ├── raporlar.css
 
 │   └── js/
-................................................................
+
 ## Tasarım Özellikleri
     -anasayfa.css
 :root {
